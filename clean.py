@@ -18,7 +18,7 @@ if __name__ == "__main__":
 	"x-rapidapi-host": "jsearch.p.rapidapi.com"
   }
   json_name = "job_listings.json"
-  csv_name = "cleaned_job_listings.csv"
+  csv_name = "juliett_cleaned_job_listings.csv"
 
   # Extract and Download the JSON file
   #file_path = extract_listings(url, query, headers, filename=json_name)
